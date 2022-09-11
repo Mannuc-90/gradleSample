@@ -8,6 +8,6 @@ public class TestController {
 
 	@GetMapping("/test")
 	public String test() {
-		return "This is a test gradle endpoint for DevOps learning - edit 1";
+		return "This is a test gradle endpoint for DevOps learning - edit 2";
 	}
 }
